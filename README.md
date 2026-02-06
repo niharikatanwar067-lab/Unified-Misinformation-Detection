@@ -68,19 +68,19 @@ The application is built using **Streamlit**, allowing users to:
 
 ## 📂 Project Structure
 
-Unified-Misinformation-Detection/
-│
-├── app.py
-├── model.pkl
-├── vectorizer.pkl
-├── requirements.txt
-├── README.md
-├── screenshots/
-│ ├── real_prediction.png
-│ ├── fake_prediction.png
-│ └── uncertain_prediction.png
-└── dataset/
-└── news.csv
+  Unified-Misinformation-Detection/
+  │
+  ├── app.py
+  ├── model.pkl
+  ├── vectorizer.pkl
+  ├── requirements.txt
+  ├── README.md
+  ├── screenshots/
+  │ ├── real_prediction.png
+  │ ├── fake_prediction.png
+  │ └── uncertain_prediction.png
+  └── dataset/
+  └── news.csv
 
 ---
 
@@ -95,17 +95,32 @@ Unified-Misinformation-Detection/
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
+Programming Language 
+ - Python
 
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- TF-IDF Vectorizer
-- Logistic Regression
-- Streamlit
-- Git & GitHub
+Data Handling & Analysis
+ - Pandas
+ - NumPy
+
+Natural Language Processing
+ - Text Preprocessing
+ - TF-IDF Vectorization
+
+Machine Learning
+ - Supervised Learning
+ - Logistic Regression
+ - Model Evaluation
+
+Libraries & Frameworks
+ - Scikit-learn
+
+Version Control
+ - Git
+ - GitHub
 
 ---
+
 
 ## 📌 Key Learnings
 
